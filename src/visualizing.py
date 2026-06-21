@@ -221,4 +221,4 @@ def line_chart_formatting (table,
     for k, z in zip(table[x], table[y]):
       ax.annotate(z, (k, z), fontsize = 9)
 
-  # return ax
+  
