@@ -15,6 +15,7 @@ Identify where the decline occurs after registration and determine whether it is
 
 Users follow this path within the app:
 
+<img width="1916" height="821" alt="CJM" src="https://github.com/user-attachments/assets/18e292ad-7895-4a77-9632-ea6d97ac1394" />
 
 ## Approach
 
